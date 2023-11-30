@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Teacher And Principal"
+include ':app'
+include ':teacher:teacher_data'
+include ':teacher:teacher_domain'
+include ':teacher:teacher_presentation'
+include ':principal:principal_data'
+include ':principal:principal_domain'
+include ':principal:principal_presentation'
+include ':common:commonUtils'

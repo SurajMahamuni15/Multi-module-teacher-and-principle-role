@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/commonUtils" />
+            <option value="$PROJECT_DIR$/principal" />
+            <option value="$PROJECT_DIR$/principal/principal_data" />
+            <option value="$PROJECT_DIR$/principal/principal_domain" />
+            <option value="$PROJECT_DIR$/principal/principal_presentation" />
+            <option value="$PROJECT_DIR$/teacher" />
+            <option value="$PROJECT_DIR$/teacher/teacher_data" />
+            <option value="$PROJECT_DIR$/teacher/teacher_domain" />
+            <option value="$PROJECT_DIR$/teacher/teacher_presentation" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teacher And Principal</string>
+    <string name="navigate_to_teacher_screen">Navigate to Teacher screen</string>
+    <string name="navigate_to_principle_screen">Navigate to Principle Screen</string>
+</resources>
